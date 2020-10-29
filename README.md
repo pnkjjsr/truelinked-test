@@ -19,11 +19,17 @@ This is a IQM-Test [`create-next-app`](https://github.com/vercel/next.js/tree/ca
 ## Getting Started
 
 First, run the development server:
+```bash
+yarn next
+# or
+yarn dev
+```
 
+First, run the Production server:
 ```bash
 yarn start
 # or
-yarn dev
+yarn prod
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
