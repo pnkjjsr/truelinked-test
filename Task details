@@ -1,0 +1,24 @@
+TrueLinked Test
+
+As discussed, below is the coding assignment. You can put this on Github and send over the link for review.
+
+Frontend Coding Assignment:
+ 
+
+As a front-end engineer, you should already have experience with responsive design, multiple frontend frameworks, and CSS languages.
+
+The goal of the test is to show a basic understanding of how to serve hybrid web applications. To serve hybrid web applications, we use Nextjs to provide the best of the server-side and client-side, without compromising with the code being developed and getting the benefits of the huge React developer base.
+
+ 
+
+Show that you understand Next.js, React, basic HTML/CSS and can use/consume REST API Services and show an example of how a popular consumer-based web application should be structured.
+
+ 
+
+We are going to use the test API server: https://jsonplaceholder.typicode.com as a data source
+
+Create a new Next.js application
+Create a view/page with a table(With the following columns: id, userid, title)  that show posts from https://jsonplaceholder.typicode.com/posts
+When you click on a post/row in the created table, you go to a new page/view where you can see all information about that given post.     
+Get information about the given post’s user, using the user endpoint: https://jsonplaceholder.typicode.com/users
+Make it look good
