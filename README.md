@@ -21,7 +21,7 @@ This is a IQM-Test [`create-next-app`](https://github.com/vercel/next.js/tree/ca
 First, run the development server:
 
 ```bash
-npm run dev
+yarn start
 # or
 yarn dev
 ```
